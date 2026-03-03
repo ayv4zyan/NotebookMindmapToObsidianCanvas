@@ -3,7 +3,7 @@
 [![Obsidian Downloads](https://img.shields.io/badge/Obsidian-Community_Plugins-purple)](https://obsidian.md/plugins?id=notebook-mindmap-to-canvas)
 ![License](https://img.shields.io/github/license/ayv4zyan/NotebookMindmapToObsidianCanvas)
 
-Supercharge your study workflow by converting [NotebookLM](https://notebooklm.google/) mindmaps into interactive [Obsidian Canvas](https://obsidian.md/canvas) boards with one click.
+Supercharge your study workflow by converting [NotebookLM](https://notebooklm.google/) mindmaps into interactive [Canvas](https://obsidian.md/canvas) boards with one click.
 
 > [!IMPORTANT]
 > To get the mindmap data from NotebookLM, you need to use the [**NotebookLM Ultra Exporter**](https://chromewebstore.google.com/search/NotebookLM%20Ultra%20Exporter) Chrome Extension (or a similar tool) to copy the mindmap code as **JSON** or **Markdown**.
